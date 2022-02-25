@@ -6,4 +6,4 @@ pip3 install flask
 pip3 install gTTS
 ```
 
-[Link to Google](https://www.google.com)
+[Link to Live Application](https://text-to-speech-converter-app.herokuapp.com/)
