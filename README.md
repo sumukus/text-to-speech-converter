@@ -7,4 +7,4 @@ pip3 install gTTS
 ```
 
 [Link to Live Application](https://text-to-speech-converter-app.herokuapp.com/)
-<a href="https://text-to-speech-converter-app.herokuapp.com">Clcik</a>
+<a href="https://text-to-speech-converter-app.herokuapp.com" class="button">Click</a>
